@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Thales Nishida  
 
-<!--
-**nishida-tn/nishida-tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Android Developer passionate about building scalable and efficient solutions.  
+Currently working at **Acqio**, a fintech focused on payment solutions.  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Android**: Kotlin, XML, Jetpack Compose  
+- **Back-end**: Kotlin with Spring Boot  
+- **Others**: REST APIs, software architecture best practices, Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 About Me
+- 🔹 Always eager to learn new technologies and take on real-world challenges.  
+- 🔹 Experienced in mobile development and API integration.  
+- 🔹 Continuously improving my skills in Android and back-end development.  
+
+---
+
+⭐ Feel free to reach out if you’d like to chat about Android, Kotlin, or software development in general!
